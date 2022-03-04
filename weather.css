@@ -1,0 +1,19 @@
+label{
+    
+    padding: 5px;
+    border: 5px solid black;
+    background-image: radial-gradient(45deg,#2589ef 60%,#aa5601 30%);
+    margin-bottom: 50px;
+}
+select{
+    margin-left: 25px;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+p{
+    font-size: 3rem;
+    font-family: 500;
+    color: #148914;
+}
